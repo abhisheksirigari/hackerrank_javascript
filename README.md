@@ -1,4 +1,4 @@
-## Moonsoon Umberallas
+## Moonsoon Umberallas Javascript
 ```javascript
 const biggerUmbrella = Math.max(...p)
     const remain = n % biggerUmbrella
@@ -11,7 +11,7 @@ const biggerUmbrella = Math.max(...p)
         return remain !== 0 ? solve(remain, remainingUmbrellas) + peopleThatFit : peopleThatFit
     }
 ```
-## Binary number in a linked list
+## Binary number in a linked list Javascript
 ```javascript
 function getNumber(binary) {
     // Write your code here
@@ -54,7 +54,7 @@ function getNumber(binary) {
 ```
 
 
-##prefixtopostfix 
+## prefixtopostfix Javascript 
 ```javascript
 function preToPost(prefixes) {
     // funtion to check if character
